@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additional
+.idea
+**/.ipynb_checkpoints
+cpd/data/credit_risk/.DS_Store
+.DS_Store
+.vscode
+__pycache__
+.pytest_cache
+.venv
+dist
+venv
+config.toml
+agents/langgraph-arxiv-research/config.toml_backup_dach
+ui/code/.streamlit/
