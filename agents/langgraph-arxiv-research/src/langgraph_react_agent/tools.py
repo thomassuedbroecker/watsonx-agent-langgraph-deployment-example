@@ -82,5 +82,3 @@ def weather_service(cities: List[str]) -> str:
         full_text = full_text + ' ' + response_text
 
      return full_text
-
-
